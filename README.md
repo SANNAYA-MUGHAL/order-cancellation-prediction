@@ -118,3 +118,5 @@ Python 3.x
 scikit-learn
 numpy random seed: 42
 ```
+
+## Results: Accuracy 88.67% | AUC 0.932
